@@ -1,2 +1,2 @@
-# Week_3_project
+# Week 3 project
 Eduardo da Silva and Rad Joe

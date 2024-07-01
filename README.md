@@ -13,7 +13,7 @@ Eduardo da Silva
 # Analysis of Air Accidents by Decades.
 
 This project is a part of the bootcamp at [Ironhack](https://ironhack.com/).  
-
+[Analysis of Air Accidents by Decades - PDF](https://github.com/drivedudu/EAD_Air_Accidents/blob/main/Analysis%20of%20Air%20Accidents%20by%20Decades%20presentation.pdf)
 #### -- Project Status: [Completed]
 
 ## Project Intro

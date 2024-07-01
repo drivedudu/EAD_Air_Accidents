@@ -166,7 +166,7 @@ This project aims to assess the effectiveness of safety protocols implemented ov
 
 * [Kaggle database Aviation accidents](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data?select=AviationData.csv)
 * [Kaggle database Maps for Geopandas](https://www.kaggle.com/datasets/yassereleraky/aviation-accident-ntsb?select=geo+pandas+expect+.csv)
-* [Presentation](link)
+* [Presentation](https://github.com/drivedudu/EAD_Air_Accidents/blob/main/Analysis%20of%20Air%20Accidents%20by%20Decades%20presentation.pdf)
 
 
 
